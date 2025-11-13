@@ -165,7 +165,7 @@ const Contact = () => {
               {/* Email */}
               <div>
                 <h4 className="text-purple font-semibold">Email</h4>
-                <p className="text-lg">your-email@example.com</p>
+                <p className="text-lg">madhusekhar96039@google.com</p>
               </div>
 
               {/* Social Icons */}

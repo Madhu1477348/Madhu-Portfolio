@@ -1,6 +1,6 @@
 import { FaLightbulb, FaPaintBrush, FaCode } from "react-icons/fa";
 import ProfileImg from "../assets/ProfileImg.jpeg";
-import Project1 from "../assets/Ecom-Project.png";
+import Project1 from "../assets/Portfolio.png";
 import Project2 from "../assets/Weather.png";
 import Project3 from "../assets/Ecom-Project.png";
 
