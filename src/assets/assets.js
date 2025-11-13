@@ -121,8 +121,8 @@ export const projectsDetails = [
       "Modern UI",
     ],
     image: Project1,
-    liveDemo: "https://your-portfolio-live-link.com",
-    sourceCode: "https://github.com/your-username/portfolio",
+    liveDemo: "https://madhu1477348.github.io/Madhu-Portfolio/",
+    sourceCode: "https://github.com/Madhu1477348/Madhu-Portfolio",
   },
   {
     id: 2,
