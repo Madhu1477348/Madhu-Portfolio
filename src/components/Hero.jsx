@@ -48,7 +48,7 @@ function Hero() {
 
             {/* Download Resume Button */}
             <a
-              href="/Resume.pdf"
+              href="/Madhu-Portfolio/Resume.pdf"
               download
               className="px-6 py-3 bg-dark-300 border border-purple rounded-lg font-medium text-purple hover:bg-purple hover:text-white transition duration-300 w-full sm:w-auto text-center"
             >
